@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "isa-afp": {
+      "command": "/Volumes/External/Code/isa-afp-mcp/bin/isa-afp-mcp",
+      "args": [
+        "--log-level=info"
+      ]
+    }
+  }
+}
